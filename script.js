@@ -19,7 +19,7 @@ console.log('這是外部的JavaScript');
 // 單字相連字首大寫
 // 用有意義的名稱命名
 
-let test=42;
+let test=40;
 let fontColor='#f63';
 
 console.log(test);
